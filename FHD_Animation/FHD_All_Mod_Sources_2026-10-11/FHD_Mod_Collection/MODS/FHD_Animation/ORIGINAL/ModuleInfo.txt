@@ -1,0 +1,25 @@
+Name=FHD_Animation
+Author=PrologDE
+Conflict=MorphyGaalGovHD
+Priority=99
+Section=FHD_MODS
+Languages=Rus,Eng
+SmallDescription=В Моде переработанная анимация HD правительств и работяг на станциях.
+SmallDescription=<color=255,215,0>ver.1 готовая но возможны доработки в будущем</color>
+SmallDescription=(Мод можно <color=0,150,15>подключать</color>/<color=150,0,15>отключать</color> в любое время игры)
+FullDescription=Меняет анимации правительств и Работяг на станциях всех 5 рас — Малоков, Пеленгов, Людей, Фэян и Гаальцев — на совершенно новые, улучшенные и переработанные HD-версии.
+FullDescription=<color=0,132,15>(Легален)</color>
+FullDescription=<color=0,132,15>Замена анимаций военной базы и правительства Малоков:</color>
+FullDescription=По умолчанию установлена версия <color=0,180,20>Maloc V1</color>.
+FullDescription=Чтобы заменить анимации, откройте папку <color=0,180,20>Maloc V1,V2</color>, выберите нужный вариант и скопируйте всё содержимое выбранной папки в корневую папку мода <color=0,180,20>FHD_Animation</color> с заменой файлов.
+SmallDescription=------------------------------------  <color=0,200,255>ENG</color>  ----------------------------------------
+FullDescription= ------------------------------------  <color=0,200,255>ENG</color>  ----------------------------------------
+Languages=Eng,Rus
+SmallDescription=The Mod features reworked HD government animations.
+SmallDescription=<color=255,215,0>ver.1 is complete, but further improvements are possible</color>
+SmallDescription=(The Mod can be <color=0,150,15>enabled</color>/<color=150,0,15>disabled</color> at any time during the game)
+FullDescription=Replaces the government animations of all 5 races — Maloks, Pelengs, Humans, Feyans, and Gaalians — with completely new, improved, and reworked HD versions.
+FullDescription=<color=0,132,15>(Legal)</color>
+FullDescription=<color=0,132,15>Replacing the Malok military base and government animations:</color>
+FullDescription=By default, the <color=0,180,20>Maloc V1</color> version is installed.
+FullDescription=To replace the animations, open the <color=0,180,20>Maloc V1,V2</color> folder, choose the version you want, and copy all contents of the selected folder into the root <color=0,180,20>FHD_Animation</color> mod folder, replacing the existing files.

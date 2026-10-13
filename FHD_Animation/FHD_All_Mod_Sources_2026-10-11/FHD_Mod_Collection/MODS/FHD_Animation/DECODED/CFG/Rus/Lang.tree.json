@@ -1,0 +1,140 @@
+{
+  "format": "blockpar",
+  "header_key": 2984822409,
+  "new_format": true,
+  "seed": -1316566416,
+  "sha256": "d225a9826017f3293cc2d34cbea45b0cfd9077d70abb45e722055e8e17a52df9",
+  "tree": {
+    "sorted": true,
+    "entries": [
+      {
+        "name": "ShipInfo",
+        "block": {
+          "sorted": true,
+          "entries": [
+            {
+              "name": "AddInfo",
+              "block": {
+                "sorted": true,
+                "entries": [
+                  {
+                    "name": "CustomInfos",
+                    "block": {
+                      "sorted": true,
+                      "entries": [
+                        {
+                          "name": "FHD_StationEmblem_Info",
+                          "block": {
+                            "sorted": false,
+                            "entries": [
+                              {
+                                "name": "Description",
+                                "value": "NoShow"
+                              },
+                              {
+                                "name": "Icon",
+                                "value": "0"
+                              },
+                              {
+                                "name": "Name",
+                                "value": ""
+                              },
+                              {
+                                "name": "OnActCodeTypes",
+                                "value": "t_OnShowingShipInfo"
+                              },
+                              {
+                                "name": "OnActCode",
+                                "block": {
+                                  "sorted": false,
+                                  "entries": [
+                                    {
+                                      "name": "01",
+                                      "value": "dword station = ScriptItemActShip();"
+                                    },
+                                    {
+                                      "name": "02",
+                                      "value": "if(!station) station = CurShip;"
+                                    },
+                                    {
+                                      "name": "03",
+                                      "value": "if(!station) exit;"
+                                    },
+                                    {
+                                      "name": "04",
+                                      "value": "int owner = ShipOwner(station);"
+                                    },
+                                    {
+                                      "name": "05",
+                                      "value": "if(owner == Fei)"
+                                    },
+                                    {
+                                      "name": "06",
+                                      "value": "{"
+                                    },
+                                    {
+                                      "name": "07",
+                                      "value": "    if(CurrentForm() == 'StarMap') InterfaceImage('StarMap','InfoShipEmRace','Alpha,Bm.FHDStationEmblem.Fei');"
+                                    },
+                                    {
+                                      "name": "08",
+                                      "value": "    else if(CurrentForm() == 'Hangar') InterfaceImage('Hangar','InfoShipEmRace','Alpha,Bm.FHDStationEmblem.Fei');"
+                                    },
+                                    {
+                                      "name": "09",
+                                      "value": "}"
+                                    },
+                                    {
+                                      "name": "10",
+                                      "value": "else if(owner == Peleng)"
+                                    },
+                                    {
+                                      "name": "11",
+                                      "value": "{"
+                                    },
+                                    {
+                                      "name": "12",
+                                      "value": "    if(CurrentForm() == 'StarMap') InterfaceImage('StarMap','InfoShipEmRace','Alpha,Bm.FHDStationEmblem.Peleng');"
+                                    },
+                                    {
+                                      "name": "13",
+                                      "value": "    else if(CurrentForm() == 'Hangar') InterfaceImage('Hangar','InfoShipEmRace','Alpha,Bm.FHDStationEmblem.Peleng');"
+                                    },
+                                    {
+                                      "name": "14",
+                                      "value": "}"
+                                    }
+                                  ]
+                                }
+                              }
+                            ]
+                          },
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        }
+                      ]
+                    },
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  }
+                ]
+              },
+              "metadata": [
+                0,
+                1
+              ]
+            }
+          ]
+        },
+        "metadata": [
+          0,
+          1
+        ]
+      }
+    ]
+  }
+}

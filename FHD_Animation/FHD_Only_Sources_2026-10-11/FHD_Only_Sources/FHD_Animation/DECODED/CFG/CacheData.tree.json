@@ -1,0 +1,324 @@
+{
+  "format": "cache",
+  "header_key": 3935256375,
+  "new_format": false,
+  "seed": -1946616037,
+  "sha256": "4ad9de5101172c8ea9c8fc21e27fa0f505ab65338fe690a2f5810b763333859e",
+  "tree": {
+    "sorted": true,
+    "entries": [
+      {
+        "name": "Bm",
+        "block": {
+          "sorted": true,
+          "entries": [
+            {
+              "name": "BaseHD",
+              "block": {
+                "sorted": true,
+                "entries": [
+                  {
+                    "name": "1MalocWB0a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\1maloc0_WB.gai"
+                  },
+                  {
+                    "name": "1MalocWB0i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\1maloc0_WB.gi"
+                  },
+                  {
+                    "name": "1MalocWB1a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\1maloc1_WB.gai"
+                  },
+                  {
+                    "name": "1MalocWB1i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\1maloc1_WB.gi"
+                  },
+                  {
+                    "name": "FeiCB0a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\fei0_CB.gai"
+                  },
+                  {
+                    "name": "FeiCB0i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\fei0_CB.gi"
+                  },
+                  {
+                    "name": "FeiCB1a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\fei1_CB.gai"
+                  },
+                  {
+                    "name": "FeiCB1i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\fei1_CB.gi"
+                  },
+                  {
+                    "name": "FeiRC0a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\fei0_RC.gai"
+                  },
+                  {
+                    "name": "FeiRC0i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\fei0_RC.gi"
+                  },
+                  {
+                    "name": "FeiRC1a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\fei1_RC.gai"
+                  },
+                  {
+                    "name": "FeiRC1i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\fei1_RC.gi"
+                  },
+                  {
+                    "name": "FeiSB0a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\fei0_SB.gai"
+                  },
+                  {
+                    "name": "FeiSB0i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\fei0_SB.gi"
+                  },
+                  {
+                    "name": "FeiSB1a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\fei1_SB.gai"
+                  },
+                  {
+                    "name": "FeiSB1i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\fei1_SB.gi"
+                  },
+                  {
+                    "name": "GaalMC0a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\gaal0_MC.gai"
+                  },
+                  {
+                    "name": "GaalMC0i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\gaal0_MC.gi"
+                  },
+                  {
+                    "name": "GaalMC1a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\gaal1_MC.gai"
+                  },
+                  {
+                    "name": "GaalMC1i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\gaal1_MC.gi"
+                  },
+                  {
+                    "name": "GaalRC0a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\gaal0_RC.gai"
+                  },
+                  {
+                    "name": "GaalRC0i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\gaal0_RC.gi"
+                  },
+                  {
+                    "name": "GaalRC1a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\gaal1_RC.gai"
+                  },
+                  {
+                    "name": "GaalRC1i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\gaal1_RC.gi"
+                  },
+                  {
+                    "name": "GaalSB0a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\gaal0_SB.gai"
+                  },
+                  {
+                    "name": "GaalSB0i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\gaal0_SB.gi"
+                  },
+                  {
+                    "name": "GaalSB1a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\gaal1_SB.gai"
+                  },
+                  {
+                    "name": "GaalSB1i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\gaal1_SB.gi"
+                  },
+                  {
+                    "name": "MalocWB0a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\maloc0_WB.gai"
+                  },
+                  {
+                    "name": "MalocWB0i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\maloc0_WB.gi"
+                  },
+                  {
+                    "name": "MalocWB1a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\maloc1_WB.gai"
+                  },
+                  {
+                    "name": "MalocWB1i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\maloc1_WB.gi"
+                  },
+                  {
+                    "name": "PelengPB0a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\peleng0_PB.gai"
+                  },
+                  {
+                    "name": "PelengPB0i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\peleng0_PB.gi"
+                  },
+                  {
+                    "name": "PelengPB1a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\peleng1_PB.gai"
+                  },
+                  {
+                    "name": "PelengPB1i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\peleng1_PB.gi"
+                  },
+                  {
+                    "name": "PelengWB0a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\peleng0_WB.gai"
+                  },
+                  {
+                    "name": "PelengWB0i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\peleng0_WB.gi"
+                  },
+                  {
+                    "name": "PelengWB1a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\peleng1_WB.gai"
+                  },
+                  {
+                    "name": "PelengWB1i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\peleng1_WB.gi"
+                  },
+                  {
+                    "name": "PeopleCB0a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\people0_CB.gai"
+                  },
+                  {
+                    "name": "PeopleCB0i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\people0_CB.gi"
+                  },
+                  {
+                    "name": "PeopleCB1a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\people1_CB.gai"
+                  },
+                  {
+                    "name": "PeopleCB1i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\people1_CB.gi"
+                  },
+                  {
+                    "name": "PeoplePB0a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\people0_PB.gai"
+                  },
+                  {
+                    "name": "PeoplePB0i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\people0_PB.gi"
+                  },
+                  {
+                    "name": "PeoplePB1a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\people1_PB.gai"
+                  },
+                  {
+                    "name": "PeoplePB1i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\people1_PB.gi"
+                  },
+                  {
+                    "name": "PeopleWB0a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\people0_WB.gai"
+                  },
+                  {
+                    "name": "PeopleWB0i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\people0_WB.gi"
+                  },
+                  {
+                    "name": "PeopleWB1a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\people1_WB.gai"
+                  },
+                  {
+                    "name": "PeopleWB1i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\BaseHD\\people1_WB.gi"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "GovHD",
+              "block": {
+                "sorted": true,
+                "entries": [
+                  {
+                    "name": "FeiGIF0a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\GovHD\\fei.gai"
+                  },
+                  {
+                    "name": "FeiGIF0i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\GovHD\\fei.gi"
+                  },
+                  {
+                    "name": "FeiGIF1a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\GovHD\\fei1.gai"
+                  },
+                  {
+                    "name": "FeiGIF1i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\GovHD\\fei1.gi"
+                  },
+                  {
+                    "name": "GaalGIF0a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\GovHD\\gaal.gai"
+                  },
+                  {
+                    "name": "GaalGIF0i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\GovHD\\gaal.gi"
+                  },
+                  {
+                    "name": "GaalGIF1a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\GovHD\\gaal1.gai"
+                  },
+                  {
+                    "name": "GaalGIF1i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\GovHD\\gaal1.gi"
+                  },
+                  {
+                    "name": "MalocGIF0a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\GovHD\\maloc.gai"
+                  },
+                  {
+                    "name": "MalocGIF0i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\GovHD\\maloc.gi"
+                  },
+                  {
+                    "name": "MalocGIF1a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\GovHD\\maloc1.gai"
+                  },
+                  {
+                    "name": "MalocGIF1i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\GovHD\\maloc1.gi"
+                  },
+                  {
+                    "name": "PelengGIF0a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\GovHD\\peleng.gai"
+                  },
+                  {
+                    "name": "PelengGIF0i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\GovHD\\peleng.gi"
+                  },
+                  {
+                    "name": "PelengGIF1a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\GovHD\\peleng1.gai"
+                  },
+                  {
+                    "name": "PelengGIF1i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\GovHD\\peleng1.gi"
+                  },
+                  {
+                    "name": "PeopleGIF0a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\GovHD\\people.gai"
+                  },
+                  {
+                    "name": "PeopleGIF0i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\GovHD\\people.gi"
+                  },
+                  {
+                    "name": "PeopleGIF1a",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\GovHD\\people1.gai"
+                  },
+                  {
+                    "name": "PeopleGIF1i",
+                    "value": "Mods\\FHD_MODS\\FHD_Animation\\DATA\\GovHD\\people1.gi"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
