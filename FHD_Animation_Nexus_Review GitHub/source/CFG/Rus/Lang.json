@@ -1,0 +1,160 @@
+{
+  "format": "blockpar",
+  "seed": -1316566416,
+  "root": {
+    "entries": [
+      {
+        "kind": "block",
+        "name": "ShipInfo",
+        "value": {
+          "entries": [
+            {
+              "kind": "block",
+              "name": "AddInfo",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "block",
+                    "name": "CustomInfos",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "block",
+                          "name": "FHD_StationEmblem_Info",
+                          "value": {
+                            "entries": [
+                              {
+                                "kind": "parameter",
+                                "name": "Description",
+                                "value": "NoShow"
+                              },
+                              {
+                                "kind": "parameter",
+                                "name": "Icon",
+                                "value": "0"
+                              },
+                              {
+                                "kind": "parameter",
+                                "name": "Name",
+                                "value": ""
+                              },
+                              {
+                                "kind": "parameter",
+                                "name": "OnActCodeTypes",
+                                "value": "t_OnShowingShipInfo"
+                              },
+                              {
+                                "kind": "block",
+                                "name": "OnActCode",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "kind": "parameter",
+                                      "name": "01",
+                                      "value": "dword station = ScriptItemActShip();"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "02",
+                                      "value": "if(!station) station = CurShip;"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "03",
+                                      "value": "if(!station) exit;"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "04",
+                                      "value": "int owner = ShipOwner(station);"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "05",
+                                      "value": "if(owner == Fei)"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "06",
+                                      "value": "{"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "07",
+                                      "value": "    if(CurrentForm() == 'StarMap') InterfaceImage('StarMap','InfoShipEmRace','Alpha,Bm.FHDStationEmblem.Fei');"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "08",
+                                      "value": "    else if(CurrentForm() == 'Hangar') InterfaceImage('Hangar','InfoShipEmRace','Alpha,Bm.FHDStationEmblem.Fei');"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "09",
+                                      "value": "}"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "10",
+                                      "value": "else if(owner == Peleng)"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "11",
+                                      "value": "{"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "12",
+                                      "value": "    if(CurrentForm() == 'StarMap') InterfaceImage('StarMap','InfoShipEmRace','Alpha,Bm.FHDStationEmblem.Peleng');"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "13",
+                                      "value": "    else if(CurrentForm() == 'Hangar') InterfaceImage('Hangar','InfoShipEmRace','Alpha,Bm.FHDStationEmblem.Peleng');"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "14",
+                                      "value": "}"
+                                    }
+                                  ],
+                                  "sorted": false
+                                }
+                              }
+                            ],
+                            "sorted": false
+                          },
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        }
+                      ],
+                      "sorted": true
+                    },
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "sorted": true
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            }
+          ],
+          "sorted": true
+        },
+        "sort_meta": [
+          0,
+          1
+        ]
+      }
+    ],
+    "sorted": true
+  }
+}

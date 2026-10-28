@@ -1,0 +1,403 @@
+{
+  "scope": "SUPPLIED_CODE_AND_ASSETS_ONLY",
+  "full_mod_complete": false,
+  "source_derived_dat_files": 4,
+  "supplied_runtime_files": 7,
+  "byte_identical_to_supplied_files": true,
+  "different_files": [],
+  "python": "3.12.14",
+  "zlib": "1.3.2",
+  "game_executed": false,
+  "sha256": {
+    "CFG/CacheData.dat": "4ad9de5101172c8ea9c8fc21e27fa0f505ab65338fe690a2f5810b763333859e",
+    "CFG/Eng/Lang.dat": "d225a9826017f3293cc2d34cbea45b0cfd9077d70abb45e722055e8e17a52df9",
+    "CFG/Main.dat": "80ecd5bb103a1fbb908d553a24f1f46191d088fd34546394f9126ed2da8a96f8",
+    "CFG/Rus/Lang.dat": "d225a9826017f3293cc2d34cbea45b0cfd9077d70abb45e722055e8e17a52df9",
+    "DATA/Race/Emblem/2EmFei.png": "37559f2f0181ca7a75e91eb7a448912143598ba334c21405dd39054f9a0a867d",
+    "DATA/Race/Emblem/2EmPeleng.png": "775c32b8b2f3648d9221220eccd9d2a7d9c1265201ae133b0b3008b6c4fcc921",
+    "ModuleInfo.txt": "837e77035837d0a5970f8c2a56b52188e7c43b26476e8dc052251f72bb7be23d"
+  },
+  "resource_audit": {
+    "status": "INCOMPLETE_MEDIA_NOT_SUPPLIED",
+    "cache_references": 72,
+    "missing_media_count": 72,
+    "missing_gai": 36,
+    "missing_gi": 36,
+    "missing_media": [
+      {
+        "alias": "Bm.BaseHD.1MalocWB0a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/1maloc0_WB.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.1MalocWB0i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/1maloc0_WB.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.1MalocWB1a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/1maloc1_WB.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.1MalocWB1i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/1maloc1_WB.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.FeiCB0a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/fei0_CB.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.FeiCB0i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/fei0_CB.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.FeiCB1a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/fei1_CB.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.FeiCB1i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/fei1_CB.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.FeiRC0a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/fei0_RC.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.FeiRC0i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/fei0_RC.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.FeiRC1a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/fei1_RC.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.FeiRC1i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/fei1_RC.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.FeiSB0a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/fei0_SB.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.FeiSB0i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/fei0_SB.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.FeiSB1a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/fei1_SB.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.FeiSB1i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/fei1_SB.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.GaalMC0a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/gaal0_MC.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.GaalMC0i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/gaal0_MC.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.GaalMC1a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/gaal1_MC.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.GaalMC1i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/gaal1_MC.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.GaalRC0a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/gaal0_RC.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.GaalRC0i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/gaal0_RC.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.GaalRC1a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/gaal1_RC.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.GaalRC1i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/gaal1_RC.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.GaalSB0a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/gaal0_SB.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.GaalSB0i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/gaal0_SB.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.GaalSB1a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/gaal1_SB.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.GaalSB1i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/gaal1_SB.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.MalocWB0a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/maloc0_WB.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.MalocWB0i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/maloc0_WB.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.MalocWB1a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/maloc1_WB.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.MalocWB1i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/maloc1_WB.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.PelengPB0a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/peleng0_PB.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.PelengPB0i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/peleng0_PB.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.PelengPB1a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/peleng1_PB.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.PelengPB1i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/peleng1_PB.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.PelengWB0a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/peleng0_WB.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.PelengWB0i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/peleng0_WB.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.PelengWB1a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/peleng1_WB.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.PelengWB1i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/peleng1_WB.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.PeopleCB0a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/people0_CB.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.PeopleCB0i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/people0_CB.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.PeopleCB1a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/people1_CB.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.PeopleCB1i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/people1_CB.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.PeoplePB0a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/people0_PB.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.PeoplePB0i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/people0_PB.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.PeoplePB1a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/people1_PB.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.PeoplePB1i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/people1_PB.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.PeopleWB0a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/people0_WB.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.PeopleWB0i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/people0_WB.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.PeopleWB1a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/people1_WB.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.BaseHD.PeopleWB1i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/BaseHD/people1_WB.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.GovHD.FeiGIF0a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/GovHD/fei.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.GovHD.FeiGIF0i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/GovHD/fei.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.GovHD.FeiGIF1a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/GovHD/fei1.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.GovHD.FeiGIF1i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/GovHD/fei1.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.GovHD.GaalGIF0a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/GovHD/gaal.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.GovHD.GaalGIF0i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/GovHD/gaal.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.GovHD.GaalGIF1a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/GovHD/gaal1.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.GovHD.GaalGIF1i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/GovHD/gaal1.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.GovHD.MalocGIF0a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/GovHD/maloc.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.GovHD.MalocGIF0i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/GovHD/maloc.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.GovHD.MalocGIF1a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/GovHD/maloc1.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.GovHD.MalocGIF1i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/GovHD/maloc1.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.GovHD.PelengGIF0a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/GovHD/peleng.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.GovHD.PelengGIF0i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/GovHD/peleng.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.GovHD.PelengGIF1a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/GovHD/peleng1.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.GovHD.PelengGIF1i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/GovHD/peleng1.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.GovHD.PeopleGIF0a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/GovHD/people.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.GovHD.PeopleGIF0i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/GovHD/people.gi",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.GovHD.PeopleGIF1a",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/GovHD/people1.gai",
+        "present_in_supplied_files": false
+      },
+      {
+        "alias": "Bm.GovHD.PeopleGIF1i",
+        "path": "Mods/FHD_MODS/FHD_Animation/DATA/GovHD/people1.gi",
+        "present_in_supplied_files": false
+      }
+    ],
+    "code_aliases_not_defined_in_supplied_cache": [
+      "Bm.FHDStationEmblem.Fei",
+      "Bm.FHDStationEmblem.Peleng"
+    ],
+    "alias_scope_note": "Only the supplied local configuration was checked; external definitions were not assumed."
+  },
+  "input_archive_sha256": "b651ce56cb82ba641106418a11124fda95eda21b5f64117faf5359e174dd403f",
+  "checks": {
+    "python_tests_passed": 3,
+    "python_tests_failed": 0,
+    "dat_roundtrips_passed": 4,
+    "supplied_file_hashes_matched": "7/7",
+    "strict_full_mod_gate": "Expected exit 2: 72 media files missing",
+    "png_assets": "Preserved unchanged"
+  }
+}
